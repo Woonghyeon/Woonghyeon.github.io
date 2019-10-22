@@ -1,10 +1,10 @@
 ---  
 layout: post  
-title: "[리뷰] 파이썬을 활용한 머신러닝 쿡북"  
-subtitle: "Machine Learning with Python Cookbook"  
-categories: review  
-tags: review book machine learning python cookbook preprocessing   
-comments: true  
+title: "[Privacy] GDPR(General Data Protection Regulation)"  
+subtitle: "GDPR"  
+categories: Privacy  
+tags: GDPR   
+comments: true 
 header-img: img/review/2019-10-04-review-book-ml-cookbook-1.jpg  
 ---  
   
