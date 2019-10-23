@@ -1,0 +1,30 @@
+---  
+layout: post  
+title: "[Privacy] GDPR(General Data Protection Regulation)"  
+subtitle: "GDPR"  
+categories: Privacy  
+tags: GDPR   
+comments: true  
+---  
+
+# GDPR
+Link: https://gdpr-info.eu/ "GDPR official Link"
+
+
+## Rights of the data subject (Aticle 12 -23)   
+GDPR의 핵심인 데이터 주체의 권리.... Principle과 데이터 주체의 권리가 GDPR의 핵심. 구글로 인해 유명해진 잊혀질 권리가 여기 있음(Right to be forgotten)     
+
+
+Art. 12 GDPR Transparent information, communication and modalities for the exercise of the rights of the data subject   
+Art. 13 GDPR Information to be provided where personal data are collected from the data subject   
+Art. 14 GDPR Information to be provided where personal data have not been obtained from the data subject   
+Art. 15 GDPR Right of access by the data subject   
+Art. 16 GDPR Right to rectification   
+Art. 17 GDPR Right to erasure (‘right to be forgotten’)   
+Art. 18 GDPR Right to restriction of processing   
+Art. 19 GDPR Notification obligation regarding rectification or erasure of personal data or restriction of processing   
+Art. 20 GDPR Right to data portability   
+Art. 21 GDPR Right to object   
+Art. 22 GDPR Automated individual decision-making, including profiling   
+Art. 23 GDPRRestrictions   
+
