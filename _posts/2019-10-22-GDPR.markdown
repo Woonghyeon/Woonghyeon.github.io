@@ -18,25 +18,15 @@ GDPR 이란?
 이전 EU 지침은 권고 차원의 규정인 점에 반해, GDPR은 모든 회원국이 의무적으로 준수해야하는 강행 규정이라는 점에서 큰 차이가 있음(위반시 과징금 부과)또한, GDPR은 EU 내 사업장을 운영하는 기업 뿐만 아니라 전자상거래 등을 통해 해외에서 EU 주민의 개인정보를 처리하는 기업에게도 적용됨
 아울러, GDPR은 개인정보책임자(DPO) 지정 등 기업의 책임성을 강화하는 내용과 정보이동권 등 정보주체의 권리를 강화하는 내용이 추가되었음
 
-## GDPR을 적용받는 기업은 ?
-아래 어느 하나에 해당하는 기업으로써 EU 주민의 개인정보를 처리하는 경우에는 한국 기업도 적용 대상임
+## Principles relating to processing of personal data (ARticle 5 -11)
+GDPR의 핵심인 개인정보의 처리에 대한 원칙. OECD의 Privacy 내용과 유사. 기존 Directives와도 유사하지만 발전
 
-EU에 사업장을 운영하는 기업(지점, 판매소, 영업소 등)
-
-
-EU 지역에 사업장은 없지만, 인터넷 홈페이지를 통해 EU에 거주하는 주민에게 물품 •서비스를 제공하는 기업
-
-(예) 현지어로 마케팅 활동을 하거나 현지 통화로 결제하는 경우
-
-
-EU에 거주하는 주민의 행동을 모니터 하는 기업
-
-
-특히 아래에 해당하는 기업은 특별한 주의를 요함
-
-EU 주민의 민감한 정보(건강, 유전자, 범죄경력 등)를 처리하거나, 아동의 정보를 처리하는 기업
-
-
-공개적으로 접근 가능한 장소에 대한 대규모의 체계적인 모니터링을 하는 기업(예 : CCTV)
- 
+Personal data shall be:
+1) Processed lawfully, fairly and in a transparent manner in relation to the data subject (‘lawfulness, fairness and transparency’)
+2) Collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; further processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes shall, in accordance with Article 89(1), not be considered to be incompatible with the initial purposes (‘purpose limitation’)
+3) Adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (‘data minimisation’)
+4) Accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (‘accuracy’)
+5) Kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed; personal data may be stored for longer periods insofar as the personal data will be processed solely for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) subject to implementation of the appropriate technical and organisational measures required by this Regulation in order to safeguard the rights and freedoms of the data subject (‘storage limitation’)
+6) Processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures
   
+The controller shall be responsible for, and be able to demonstrate compliance with, paragraph 1 (‘accountability’).
