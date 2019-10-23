@@ -7,7 +7,7 @@ tags: GDPR
 comments: true  
 ---  
 
-![GDPR](https://user-images.githubusercontent.com/55650342/67389126-ec6dc700-f5d4-11e9-88bb-195276164b6d.jpg)  
+![Matchup](https://user-images.githubusercontent.com/55650342/67392206-175b1980-f5db-11e9-9e2b-f1cbe880e3c4.JPG)
 
 2018년 싱가폴의 RSA Conference에 참석했을 때의 일이다.
 GDPR연사로 나온 호주의 강연자가 각 나라별 Privacy law 설명하면서 "한국은 규제 때문에 사업하기 참 어려운 나라" 라고 했던 것이 그대로 나타나는 기사이다.   
