@@ -8,7 +8,7 @@ comments: true
 ---  
 
 # GDPR
-Link: https://gdpr-info.eu/ "GDPR official Link"
+[GDPR official Link](https://gdpr-info.eu/)
 
 ## 개요  
 GDPR 이란?
