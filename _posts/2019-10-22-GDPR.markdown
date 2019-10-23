@@ -18,7 +18,7 @@ GDPR 이란?
 이전 EU 지침은 권고 차원의 규정인 점에 반해, GDPR은 모든 회원국이 의무적으로 준수해야하는 강행 규정이라는 점에서 큰 차이가 있음(위반시 과징금 부과)또한, GDPR은 EU 내 사업장을 운영하는 기업 뿐만 아니라 전자상거래 등을 통해 해외에서 EU 주민의 개인정보를 처리하는 기업에게도 적용됨
 아울러, GDPR은 개인정보책임자(DPO) 지정 등 기업의 책임성을 강화하는 내용과 정보이동권 등 정보주체의 권리를 강화하는 내용이 추가되었음
 
-## Principles relating to processing of personal data (ARticle 5 -11)
+## Principles relating to processing of personal data (Aticle 5 -11)
 GDPR의 핵심인 개인정보의 처리에 대한 원칙. OECD의 Privacy 내용과 유사. 기존 Directives와도 유사하지만 발전
 처음 6개는 개인정보가 어떻게 처리/취급되어야 하는지에 대한 것이며, 마지막 하나는 Controller가 6개의 내용이 어떻게 잘 지켜지고 있는지 입증해야 하는 책임을 부여하는 대목임
 
