@@ -1,22 +1,27 @@
 ---  
 layout: post  
-title: "[Privacy] GDPR(General Data Protection Regulation) Part 3"  
-subtitle: "GDPR"  The personal information processor shall ensure the personal information is accurate, complete and up-to-date to the extent necessary to attain the personal information processing purposes.|Personal data should be accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that is inaccurate, having regard to the purposes for which they are processed, is erased or rectified without delay.Personal data should be processed in a manner that ensures appropriate security of the personal data, including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organizational measures.|
-
+title: "[Privacy] GDPR Vs. Korea Personal Information Protection Act"  
+subtitle: "GDPR"  
 categories: Privacy  
 tags: GDPR   
 comments: true  
 ---  
 
+![GDPR](https://user-images.githubusercontent.com/55650342/67389126-ec6dc700-f5d4-11e9-88bb-195276164b6d.jpg)  
+
 2018년 싱가폴의 RSA Conference에 참석했을 때의 일이다.
 GDPR연사로 나온 호주의 강연자가 각 나라별 Privacy law 설명하면서 "한국은 규제 때문에 사업하기 참 어려운 나라" 라고 했던 것이 그대로 나타나는 기사이다.   
+
+
 
 IAAP에서 작성한 각 나라별 Privacy matchup은 간략하게나마 Global privacy관련한 직관적인 정보를 준다
 
 ![GDPR](https://user-images.githubusercontent.com/55650342/67389126-ec6dc700-f5d4-11e9-88bb-195276164b6d.jpg)
 
 # Original Article
-[Original Article](https://iapp.org/news/a/gdpr-matchup-south-koreas-personal-information-protection-act/)
+[Original Article](https://iapp.org/news/a/gdpr-matchup-south-koreas-personal-information-protection-act/)   
+
+South Korea’s comprehensive Personal Information Protection Act was enacted Sept. 30, 2011.  It is one of the world’s strictest privacy regimes. Like the GDPR, it protects privacy rights from the perspective of the data subject and it is comprehensive, applying to most organizations, even government entities. It is not only applicable and strict, but its penalties — which include criminal and regulatory fines and even imprisonment — are enthusiastically enforced.   
 
 |Item|South Korea’s Personal Information Protection Act|GDPR|
 |----|-------------------------------------------------|----|
