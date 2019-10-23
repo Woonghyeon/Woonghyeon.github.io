@@ -7,6 +7,8 @@ tags: GDPR
 comments: true  
 ---  
 
+![GDPR](https://user-images.githubusercontent.com/55650342/67389126-ec6dc700-f5d4-11e9-88bb-195276164b6d.jpg)
+
 # GDPR
 [GDPR official Link](https://gdpr-info.eu/)
 
