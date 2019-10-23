@@ -12,11 +12,7 @@ comments: true
 2018년 싱가폴의 RSA Conference에 참석했을 때의 일이다.
 GDPR연사로 나온 호주의 강연자가 각 나라별 Privacy law 설명하면서 "한국은 규제 때문에 사업하기 참 어려운 나라" 라고 했던 것이 그대로 나타나는 기사이다.   
 
-
-
 IAAP에서 작성한 각 나라별 Privacy matchup은 간략하게나마 Global privacy관련한 직관적인 정보를 준다
-
-![GDPR](https://user-images.githubusercontent.com/55650342/67389126-ec6dc700-f5d4-11e9-88bb-195276164b6d.jpg)
 
 # Original Article
 [Original Article](https://iapp.org/news/a/gdpr-matchup-south-koreas-personal-information-protection-act/)   
