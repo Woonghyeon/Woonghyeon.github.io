@@ -22,7 +22,7 @@ GDPR 이란?
 GDPR의 핵심인 개인정보의 처리에 대한 원칙. OECD의 Privacy 내용과 유사. 기존 Directives와도 유사하지만 발전
 처음 6개는 개인정보가 어떻게 처리/취급되어야 하는지에 대한 것이며, 마지막 하나는 Controller가 6개의 내용이 어떻게 잘 지켜지고 있는지 입증해야 하는 책임을 부여하는 대목임
 
-Personal data shall be:
+Personal data shall be:   
 1) Processed lawfully, fairly and in a transparent manner in relation to the data subject (‘lawfulness, fairness and transparency’)  
 
 2) Collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; further processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes shall, in accordance with Article 89(1), not be considered to be incompatible with the initial purposes (‘purpose limitation’)   
