@@ -1,0 +1,37 @@
+---  
+layout: post  
+title: "[Privacy] GDPR(General Data Protection Regulation) Part 3"  
+subtitle: "GDPR"  The personal information processor shall ensure the personal information is accurate, complete and up-to-date to the extent necessary to attain the personal information processing purposes.|Personal data should be accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that is inaccurate, having regard to the purposes for which they are processed, is erased or rectified without delay.Personal data should be processed in a manner that ensures appropriate security of the personal data, including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organizational measures.|
+
+categories: Privacy  
+tags: GDPR   
+comments: true  
+---  
+
+2018년 싱가폴의 RSA Conference에 참석했을 때의 일이다.
+GDPR연사로 나온 호주의 강연자가 각 나라별 Privacy law 설명하면서 "한국은 규제 때문에 사업하기 참 어려운 나라" 라고 했던 것이 그대로 나타나는 기사이다.   
+
+IAAP에서 작성한 각 나라별 Privacy matchup은 간략하게나마 Global privacy관련한 직관적인 정보를 준다
+
+![GDPR](https://user-images.githubusercontent.com/55650342/67389126-ec6dc700-f5d4-11e9-88bb-195276164b6d.jpg)
+
+# Original Article
+[Original Article](https://iapp.org/news/a/gdpr-matchup-south-koreas-personal-information-protection-act/)
+
+|Item|South Korea’s Personal Information Protection Act|GDPR|
+|----|-------------------------------------------------|----|
+|Purpose|To provide for the processing of the personal information for the purpose of enhancing the right and interest of citizens, and further realizing the dignity and value of the individuals by protecting their privacy from the unauthorized collection, leak, abuse or misuse of personal information.|To enable the free movement of personal data within the Union while protecting fundamental rights and freedoms of natural persons and, in particular, their right to the protection of personal data.|
+|Material Scope|Applies to any public institution, corporate body, organization, individual, etc., that manages personal information directly or via another person to administer personal information files as part of their duties|Applies to the processing of personal data wholly or partly by automated means, within the scope of Union law.|
+|Territorial Scope|Although the territorial scope is not specified in the law, the standard for enforcement of South Korean data protection law is similar to the GDPR in that companies established in South Korea are certainly subject the law, and foreign companies that target South Korean users are likely also within the ambit of enforcement action.|Applies to processing that takes place in the Union or by a processor who has an establishment in the Union within the context of activities in the Union or to processing activities that are related to the offering of goods and services to (or behavioral monitoring of) data subjects in the Union.|
+|Personal Data|“Personal information” means information pertaining to any living person that makes it possible to identify such individual by their name and resident registration number, image, etc. (including the information which, if not by itself, makes it possible to identify any specific individual if combined with other information).|Personal data means any information relating to an identified or identifiable natural person.|
+|Sensitive Personal Data|Sensitive personal information pertains to ideology, belief, joining and withdrawing from trade unions or political parties, political opinion, health, sexual life, criminal history dat, and DNA information acquired from genetic examination, as well as other personal information that, if processed, is likely to infringe the privacy of data subjects.|Special categories of data that are considered particularly sensitive are personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation.|
+|Data Controller|The act does not distinguish between controllers and processors. Both a controller and a processor are considered a “Personal information processor.”|Means the natural or legal person, public authority, agency or other body, which, alone or jointly with others, determines the purposes and means of the processing of personal data.|
+|Data Processors|"Personal information processor" means a public institution, legal person, organization, individual, etc. that processes directly or indirectly personal information to operate personal information files for official or business purposes. Because the act does not distinguish between controllers and processors, it is important to note that processors in South Korea are subject to many requirements that are reserved for controllers under the GDPR.|Means a natural or legal person, public authority, agency or other body that processes personal data on behalf of the controller.|
+|Publicly Available Information|There is no specific exception to applicability that relates to publicly available information.|The processing of publicly available information may be permitted for certain archiving purposes in the public interest, scientific or historical research purposes or statistical purposes, insofar as providing notice is likely to render impossible or seriously impair the achievement of the objectives of that processing. In such cases, the controller shall take appropriate measures to protect the data subject’s rights and freedoms and legitimate interests, including making the information publicly available.|
+|Lawfulness, Fairness and Transparency|The personal information processor shall make the personal information processing purposes explicit and specified and shall collect minimum personal information lawfully and fairly to the extent necessary for such purposes.|Personal data shall be processed lawfully, fairly and in a transparent manner in relation to the data subject.|
+|Purpose Limitation|An information processor should use personal information only for the purposes specified to the data subject in any applicable consent.|Personal data shall be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes.|
+|Data Minimization|A personal information processor should collect only the minimum amount of personal information necessary for the purposes specified to the data subject.|Personal data shall be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed.|
+|Accuracy|The personal information processor shall ensure the personal information is accurate, complete and up-to-date to the extent necessary to attain the personal information processing purposes.|Personal data should be accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that is inaccurate, having regard to the purposes for which they are processed, is erased or rectified without delay.Personal data should be processed in a manner that ensures appropriate security of the personal data, including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organizational measures.|
+
+
+
