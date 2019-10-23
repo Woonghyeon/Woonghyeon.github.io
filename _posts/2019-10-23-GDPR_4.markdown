@@ -1,0 +1,15 @@
+---  
+layout: post  
+title: "[Privacy] GDPR Vs. Japan's Act on the Protection of Personal Information"  
+subtitle: "GDPR"  
+categories: Privacy  
+tags: GDPR   
+comments: true  
+---  
+
+![Japan matchup](https://user-images.githubusercontent.com/55650342/67393965-622a6080-f5de-11e9-904b-809a46467990.JPG)
+
+Japan's APPI came into effect in May and with it came a "white list" of countries that provide adequate data protection similar to that of the EU. "The mutual recognition will add Japan to EU's white list and make the EU Japan's first 'white-listed' jurisdiction," Takase writes. "Even so, there remains a large number of differences between the privacy laws of the EU and Japan."
+
+[Original Article](https://iapp.org/news/a/matchup-gdpr-and-japans-act-on-the-protection-of-personal-information/)
+
