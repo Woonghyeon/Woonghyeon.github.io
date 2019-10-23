@@ -1,3 +1,9 @@
+---
+layout: about
+title: About
+menu: true
+order: 10
+---
 
 ## Introduction :
 Working for global bank as an information security Manager. 
