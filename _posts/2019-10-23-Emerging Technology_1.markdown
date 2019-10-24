@@ -1,0 +1,44 @@
+---  
+layout: post  
+title: "[Emerging Technology] Introduction to AWS #1"  
+subtitle: "AWS"  
+categories: Emerging Technology  
+tags: GDPR   
+comments: true  
+---
+
+## Chapter 1 Introduction to AWS   
+
+# What Is Cloud Computing?   
+Cloud computing is the on-demand delivery of IT resources and applications via the Internet with pay-as-you-go pricing. Whether you run applications that share photos to millions of mobile users or deliver services that support the critical operations of your business, the cloud provides rapid access to flexible and low-cost IT resources. With cloud computing, you don’t need to make large up-front investments in hardware and spend a lot of time managing that hardware. Instead, you can provision exactly the right type and size of computing resources you need to power your newest bright idea or operate your IT department. With cloud computing, you can access as many resources as you need, almost instantly, and only pay for what you use.
+In its simplest form, cloud computing provides an easy way to access servers, storage, databases, and a broad set of application services over the Internet. Cloud computing providers such as AWS own and maintain the network-connected hardware required for these application services, while you provision and use what you need for your workloads.
+
+# ADVANTAGES OF CLOUD COMPUTING   
+Cloud computing introduces a revolutionary shift in how technology is obtained, used, and managed, and in how organizations budget and pay for technology services. With the ability to reconfigure the computing environment quickly to adapt to changing business requirements, organizations can optimize spending. Capacity can be automatically scaled up or down to meet fluctuating usage patterns. Services can be temporarily taken offline or shut down permanently as business demands dictate. In addition, with pay-per-use billing, AWS Cloud services become an operational expense instead of a capital expense.
+While each organization experiences a unique journey to the cloud with numerous benefits, six advantages become apparent time and time again.   
+
+# Variable vs. Capital Expense   
+Let’s begin with the ability to trade capital expense for variable operational expense. Instead of having to invest heavily in data centers and servers before knowing how you’re going to use them, you can pay only when you consume computing resources and pay only for how much you consume.   
+
+# Economies of Scale   
+Another advantage of cloud computing is that organizations benefit from massive economies of scale. By using cloud computing, you can achieve a lower variable cost than you would get on your own. Because usage from hundreds of thousands of customers is aggregated in the cloud, providers such as AWS can achieve higher economies of scale, which translates into lower prices.   
+
+# Stop Guessing Capacity   
+When you make a capacity decision prior to deploying an application, you often end up either sitting on expensive idle resources or dealing with limited capacity. With cloud computing, organizations can stop guessing about capacity requirements for the infrastructure necessary to meet their business needs. They can access as much or as little as they need and scale up or down as required with only a few minutes’ notice   
+
+# Increase Speed and Agility   
+In a cloud computing environment, new IT resources are one click away, which allows organizations to reduce the time it takes to make those resources available to developers from weeks to just minutes. This results in a dramatic increase in speed and agility for the organization, because the cost and time it takes to experiment and develop is significantly lower.   
+
+# Focus on Business Differentiators   
+Cloud computing allows organizations to focus on their business priorities, instead of on the heavy lifting of racking, stacking, and powering servers. By embracing this paradigm shift, organizations can stop spending money on running and maintaining data centers. This allows organizations to focus on projects that differentiate their businesses, such as analyzing petabytes of data, delivering video content, building great mobile applications, or even exploring Mars.   
+
+# Go Global in Minutes   
+Another advantage of cloud computing is the ability to go global in minutes. Organizations can easily deploy their applications to multiple locations around the world with just a few clicks. This allows organizations to provide redundancy across the globe and to deliver lower latency and better experiences to their customers at minimal cost. Going global used to be something only the largest enterprises could afford to do, but cloud computing democratizes this ability, making it possible for any organization.
+While specific questions on these advantages of cloud computing are unlikely to be on the exam, having exposure to these benefits can help rationalize the appropriate answers.
+   
+   
+## CLOUD COMPUTING DEPLOYMENT MODELS   
+The two primary cloud computing deployment models that the exam focuses on are “all-in” cloud-based deployments and hybrid deployments. It is important to understand how each strategy applies to architectural options and decisions.
+An all-in cloud-based application is fully deployed in the cloud, with all components of the application running in the cloud. Applications in the cloud have either been created in the cloud or have been migrated from an existing infrastructure to take advantage of the benefits of cloud computing. Cloud-based applications can be built on low-level infrastructure pieces or can use higher-level services that provide abstraction from the management, architecting, and scaling requirements of core infrastructure.
+A hybrid deployment is a common approach taken by many enterprises that connects infrastructure and applications between cloud-based resources and existing resources, typically in an existing data center. The most common method of hybrid deployment is between the cloud and existing on-premises infrastructure to extend and grow an organization’s infrastructure while connecting cloud resources to internal systems. Choosing between an existing investment in infrastructure and moving to the cloud does not need to be a binary decision. Leveraging dedicated connectivity, identity federation, and integrated tools allows organizations to run hybrid applications across on-premises and cloud services
+   
