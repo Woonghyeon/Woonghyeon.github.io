@@ -2,8 +2,8 @@
 layout: post  
 title: "[Emerging Technology] Introduction to AWS #1"  
 subtitle: "AWS"  
-categories: EmergingTechnology  
-tags: EmergingTechnology   
+categories: Emerging_Technology  
+tags: Emerging_Technology   
 comments: true  
 ---
 
