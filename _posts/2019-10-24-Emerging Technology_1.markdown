@@ -1,9 +1,9 @@
 ---  
 layout: post  
-title: "[Emerging Technology] Introduction to AWS #1"  
+title: "[Cloud Computing] Introduction to AWS #1"  
 subtitle: "AWS"  
-categories: Emerging_Technology  
-tags: Emerging_Technology   
+categories: Cloud  
+tags: Cloud   
 comments: true  
 ---
 
